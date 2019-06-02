@@ -3,6 +3,11 @@ This project uses MSBUILD and NSIS to install a game and create an uninstaller, 
 
 By: Angus Poole
 
+## Video
+This project's set up is more detailed than most others, so I suggest just watching the video.
+
+https://www.youtube.com/watch?v=IOvVSEelmjU
+
 ## Part 1: MSBUILD INFO
 In order to Zip up files, the MS Build Community Tasks Project was downloaded and installed.
 Found here: https://github.com/loresoft/msbuildtasks
